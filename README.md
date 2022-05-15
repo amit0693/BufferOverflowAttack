@@ -1,16 +1,16 @@
 ---
-#Buffer Overflow Attack Lab
+# Buffer Overflow Attack Lab
 
 ----
-##Installation of Virtual-Box
+## Installation of Virtual-Box
 I am installing VMbox on my owm computer and these are the steps i performed.
 
 ---
-###Downloading
+### Downloading
 
 ---
-##Installation of Ubuntu 20.04 on VM
+## Installation of Ubuntu 20.04 on VM
 
 ---
-##Buffer Overflow Attack Lab setup
+## Buffer Overflow Attack Lab setup
 ---
